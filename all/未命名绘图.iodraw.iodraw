@@ -130,7 +130,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ypfqrpd66AAgfFDtpmxc-45" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;按小时计算消耗大量金钱时刻定位加奈位置&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ypfqrpd66AAgfFDtpmxc-45" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;按小时计算消耗大量金钱时刻定位加奈位置&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="500" width="170" height="10" as="geometry" />
         </mxCell>
       </root>
