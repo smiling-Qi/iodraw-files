@@ -31,7 +31,7 @@
           <mxGeometry x="440" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ypfqrpd66AAgfFDtpmxc-2" value="追查加奈" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ypfqrpd66AAgfFDtpmxc-4" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;每天一次的电话机会&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;次数过多引发反感&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="280" width="170" height="10" as="geometry" />
@@ -57,7 +57,7 @@
         <mxCell id="Ypfqrpd66AAgfFDtpmxc-14" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;消耗时间,精力&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="55" y="200" width="170" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Ypfqrpd66AAgfFDtpmxc-15" value="处理政务获取金钱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ypfqrpd66AAgfFDtpmxc-15" value="健身房锻炼提升精力上限" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="280" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
