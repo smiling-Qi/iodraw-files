@@ -99,7 +99,7 @@
           <mxGeometry x="80" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ypfqrpd66AAgfFDtpmxc-31" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;消耗时间,精力&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="65" y="210" width="170" height="10" as="geometry" />
+          <mxGeometry x="55" y="100" width="170" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
