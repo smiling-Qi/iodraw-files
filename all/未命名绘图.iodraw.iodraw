@@ -69,6 +69,9 @@
         <mxCell id="Ypfqrpd66AAgfFDtpmxc-19" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;消耗金钱&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="575" y="200" width="170" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="Ypfqrpd66AAgfFDtpmxc-20" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;前期只能乱跑或者电话&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="280" width="170" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
