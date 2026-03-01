@@ -28,16 +28,14 @@
           <mxGeometry x="90" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ypfqrpd66AAgfFDtpmxc-4" value="每天一次的电话机会&lt;div&gt;次数过多引发反感&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="360" width="170" height="10" as="geometry" />
+          <mxGeometry x="320" y="280" width="170" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Ypfqrpd66AAgfFDtpmxc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="300" as="targetPoint" />
             <mxPoint x="660" y="220" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="660" y="290" />
-              <mxPoint x="570" y="290" />
-              <mxPoint x="570" y="300" />
+              <mxPoint x="660" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
