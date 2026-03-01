@@ -133,7 +133,7 @@
         <mxCell id="Ypfqrpd66AAgfFDtpmxc-45" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;帮助寻找加奈的科技和能力&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="455" width="25" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Ypfqrpd66AAgfFDtpmxc-46" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;干扰寻找加奈的科技和能力&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ypfqrpd66AAgfFDtpmxc-46" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;干扰寻找加奈的事件&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="442.5" y="455" width="25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Ypfqrpd66AAgfFDtpmxc-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.322;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ypfqrpd66AAgfFDtpmxc-47" target="Ypfqrpd66AAgfFDtpmxc-0">
