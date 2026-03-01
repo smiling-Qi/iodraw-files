@@ -110,8 +110,8 @@
         <mxCell id="Ypfqrpd66AAgfFDtpmxc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.672;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ypfqrpd66AAgfFDtpmxc-36" target="Ypfqrpd66AAgfFDtpmxc-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ypfqrpd66AAgfFDtpmxc-41" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;无消耗定位加奈所在区域,无法锁定&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="585" y="510" width="170" height="10" as="geometry" />
+        <mxCell id="Ypfqrpd66AAgfFDtpmxc-41" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;指向女孩的相对位置,只有东南西北&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="575" y="580" width="170" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
