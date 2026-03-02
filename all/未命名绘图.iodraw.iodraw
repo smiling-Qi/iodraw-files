@@ -119,7 +119,7 @@
           <mxGeometry x="575" y="580" width="170" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Ypfqrpd66AAgfFDtpmxc-42" value="研究院提供监控科技" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="640" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ypfqrpd66AAgfFDtpmxc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -150,7 +150,7 @@
         <mxCell id="Ypfqrpd66AAgfFDtpmxc-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.325;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ypfqrpd66AAgfFDtpmxc-49" target="Ypfqrpd66AAgfFDtpmxc-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ypfqrpd66AAgfFDtpmxc-51" value="政府线提升威望,路人会指路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ypfqrpd66AAgfFDtpmxc-51" value="长期威望不足会招来路人的嘲笑" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ypfqrpd66AAgfFDtpmxc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.322;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ypfqrpd66AAgfFDtpmxc-51" target="Ypfqrpd66AAgfFDtpmxc-0">
