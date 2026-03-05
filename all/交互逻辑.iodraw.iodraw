@@ -64,8 +64,8 @@
         <mxCell id="YRNGdH7YvUwoeJTyz78V-21" value="突发事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YRNGdH7YvUwoeJTyz78V-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="640" width="90" height="90" as="geometry" />
+        <mxCell id="YRNGdH7YvUwoeJTyz78V-24" value="进入游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
