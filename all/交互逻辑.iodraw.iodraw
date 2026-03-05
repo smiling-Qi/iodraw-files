@@ -55,8 +55,8 @@
         <mxCell id="YRNGdH7YvUwoeJTyz78V-18" value="地图脚本维护一个地图事件池," style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="YRNGdH7YvUwoeJTyz78V-19" value="地图脚本维护一个地图事件池," style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="520" width="160" height="160" as="geometry" />
+        <mxCell id="YRNGdH7YvUwoeJTyz78V-19" value="一次性交互事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
