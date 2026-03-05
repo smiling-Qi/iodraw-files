@@ -52,7 +52,7 @@
         <mxCell id="YRNGdH7YvUwoeJTyz78V-16" value="回传地图事件更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YRNGdH7YvUwoeJTyz78V-18" value="地图脚本维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YRNGdH7YvUwoeJTyz78V-18" value="地图脚本维护一个地图事件池," style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
