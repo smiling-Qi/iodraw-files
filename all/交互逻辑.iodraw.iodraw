@@ -147,7 +147,7 @@
         <mxCell id="YRNGdH7YvUwoeJTyz78V-56" value="探索流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="760" y="800" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YRNGdH7YvUwoeJTyz78V-57" value="进入探索" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="YRNGdH7YvUwoeJTyz78V-57" value="进入地图" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="860" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
