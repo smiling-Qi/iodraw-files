@@ -7,7 +7,7 @@
         <mxCell id="YRNGdH7YvUwoeJTyz78V-1" value="玩家进行交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YRNGdH7YvUwoeJTyz78V-3" value="玩家进行交互" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YRNGdH7YvUwoeJTyz78V-3" value="根据地图属性判断交互是否可行,获取事件名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
