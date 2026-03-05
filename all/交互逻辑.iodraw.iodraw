@@ -141,8 +141,11 @@
         <mxCell id="YRNGdH7YvUwoeJTyz78V-51" value="探索流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="880" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YRNGdH7YvUwoeJTyz78V-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YRNGdH7YvUwoeJTyz78V-53" target="YRNGdH7YvUwoeJTyz78V-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YRNGdH7YvUwoeJTyz78V-53" value="对话流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="880" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="880" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YRNGdH7YvUwoeJTyz78V-60" value="保存游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="940" width="120" height="40" as="geometry" />
@@ -156,8 +159,11 @@
             <mxPoint x="760" y="1059.7099999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YRNGdH7YvUwoeJTyz78V-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YRNGdH7YvUwoeJTyz78V-66" target="YRNGdH7YvUwoeJTyz78V-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YRNGdH7YvUwoeJTyz78V-66" value="动画流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="950" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="950" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YRNGdH7YvUwoeJTyz78V-69" value="探索流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="880" width="120" height="40" as="geometry" />
