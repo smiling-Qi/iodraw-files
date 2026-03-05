@@ -103,6 +103,9 @@
         <mxCell id="YRNGdH7YvUwoeJTyz78V-33" value="画廊流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="680" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YRNGdH7YvUwoeJTyz78V-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YRNGdH7YvUwoeJTyz78V-35" target="YRNGdH7YvUwoeJTyz78V-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YRNGdH7YvUwoeJTyz78V-35" value="加载游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="760" width="120" height="40" as="geometry" />
         </mxCell>
@@ -113,13 +116,10 @@
           <mxGeometry x="200" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YRNGdH7YvUwoeJTyz78V-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="840" width="560" height="240" as="geometry" />
+          <mxGeometry x="140" y="840" width="560" height="240" as="geometry" />
         </mxCell>
         <mxCell id="YRNGdH7YvUwoeJTyz78V-42" value="游戏流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="800" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YRNGdH7YvUwoeJTyz78V-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.538;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YRNGdH7YvUwoeJTyz78V-35" target="YRNGdH7YvUwoeJTyz78V-41">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
