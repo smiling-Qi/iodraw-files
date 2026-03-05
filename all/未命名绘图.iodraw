@@ -10,8 +10,8 @@
         <mxCell id="YRNGdH7YvUwoeJTyz78V-3" value="根据地图判断交互是否可行,获取事件名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YRNGdH7YvUwoeJTyz78V-4" value="根据地图判断交互是否可行,获取事件名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="210" width="120" height="40" as="geometry" />
+        <mxCell id="YRNGdH7YvUwoeJTyz78V-4" value="转交事件总线,触发事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
