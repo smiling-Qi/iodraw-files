@@ -133,8 +133,11 @@
         <mxCell id="YRNGdH7YvUwoeJTyz78V-50" value="进入游戏" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="860" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YRNGdH7YvUwoeJTyz78V-51" value="创建游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YRNGdH7YvUwoeJTyz78V-51" value="探索流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YRNGdH7YvUwoeJTyz78V-53" value="探索流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="870" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
