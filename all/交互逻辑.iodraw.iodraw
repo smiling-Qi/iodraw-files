@@ -141,8 +141,11 @@
         <mxCell id="YRNGdH7YvUwoeJTyz78V-53" value="对话流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="870" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YRNGdH7YvUwoeJTyz78V-60" value="加载游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YRNGdH7YvUwoeJTyz78V-60" value="保存游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YRNGdH7YvUwoeJTyz78V-61" value="保存游戏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="950" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
