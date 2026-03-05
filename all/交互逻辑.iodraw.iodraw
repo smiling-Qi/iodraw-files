@@ -28,8 +28,8 @@
             <mxPoint x="379.74" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YRNGdH7YvUwoeJTyz78V-9" value="事件名与相关参数转交事件总线,触发事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="370" width="120" height="40" as="geometry" />
+        <mxCell id="YRNGdH7YvUwoeJTyz78V-9" value="获得或失去道具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
